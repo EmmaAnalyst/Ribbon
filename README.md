@@ -1,4 +1,4 @@
-<h2> Ribbon App Performance Analysis </h2>
+<h2> Analysis of Ribbon App Performance </h2>
  
 <h3>Overview </h3>
 SocialBlaze launched the Ribbon app on July 6, 2023, integrating user data from its established app, InstantSnaps. One month after the launch, the CEO provided a dataset with various app usage metrics (installs, signups, daily active users, posts seen, etc.). The key questions were:
