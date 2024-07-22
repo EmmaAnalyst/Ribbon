@@ -10,4 +10,4 @@ SocialBlaze launched the Ribbon app on July 6, 2023, integrating user data from 
 I. Detailed Report: A comprehensive analysis and presentation of insights to the CEO.
 II. Key Insights: Evaluation of the product launch's success.
 III. Visual Data: Relevant data visualizations to support findings.
-IV. Recommendations: Proboded actionable way forward for further improvements based on the analysis.
+IV. Recommendations: Provided actionable way forward for further improvements based on the analysis.
