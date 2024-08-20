@@ -4,7 +4,7 @@
 SocialBlaze launched the Ribbon app on July 6, 2023, integrating user data from its established app, InstantSnaps. One month after the launch, the CEO provided a dataset with various app usage metrics (installs, signups, daily active users, posts seen, etc.). The key questions were posed and addressed:
 
 1. Can the success of Ribbon be leveraged to improve SocialBlaze's other products and services?
-2. What opportunities exist for enhancin users' acquisition and engagement?
+2. What opportunities exist for enhanci users' acquisition and engagement?
 
 <h3>Deliverables</h3>
 I. Detailed Report: A comprehensive analysis and presentation of insights were delivered to the CEO.
