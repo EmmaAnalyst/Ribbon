@@ -7,7 +7,7 @@ SocialBlaze launched the Ribbon app on July 6, 2023, integrating users' data fro
 2. What opportunities exist for enhancing users' acquisition and engagement?
 
 <h3>Deliverables</h3>
-I. Detailed Report: A comprehensive analysis and presentation of insights were submid to the CEO.
+I. Detailed Report: A comprehensive analysis and presentation of insights were submittd to the CEO.
 II. Key Insights/Metrics: Evaluation of the product launch's success.
 III. Visual Data: Relevant data visualizations to support findings.
 IV. Recommendations: Provided actionable way forward for further improvements based on the analytical report.
